@@ -1,0 +1,13 @@
+name = "sudo-self"
+description = "a python ytd"
+version = "0.0.1"
+terminal = false
+packages = [
+    "/static/wheels/sudoself-0.0.1-py3-none-any.whl",
+    "/static/wheels/toga_core-0.4.2-py3-none-any.whl",
+    "/static/wheels/toga_web-0.4.2-py3-none-any.whl",
+    "/static/wheels/travertino-0.3.0-py3-none-any.whl",
+]
+
+[splashscreen]
+autoclose = true
